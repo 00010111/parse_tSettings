@@ -44,7 +44,7 @@ python3 ./parse_tSettings.py -b -d ~/tool/sampledata2
 
 ## Bugs, Discussions, Feature requests, contact
 * open an issue
-* contact me via Mastodon: https://ioc.exchange/@b00010111
+* contact me via Mastodon
 * (reaching out via Twitter doesn't really work well anymore...sorry)
 
 ## further reading
