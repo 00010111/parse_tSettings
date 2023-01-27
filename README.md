@@ -33,8 +33,9 @@ python3 ./parse_tSettings.py -b -d ~/tool/sampledata2
 * For other information on how the data fields within the Settings.xml file have, see verbose output of the tool.
 
 ## Author
-* Twitter: [@b00010111](https://twitter.com/b00010111)
+* Mastodon: [@b00010111](https://ioc.exchange/@b00010111)
 * Blog: https://00010111.at/
+* Twitter: [@b00010111](https://twitter.com/b00010111)
 
 ## License
 * Free to use, reuse and redistribute for everyone.
@@ -43,7 +44,8 @@ python3 ./parse_tSettings.py -b -d ~/tool/sampledata2
 
 ## Bugs, Discussions, Feature requests, contact
 * open an issue
-* contact me via twitter
+* contact me via Mastodon: https://ioc.exchange/@b00010111
+* (reaching out via Twitter doesn't really work well anymore...sorry)
 
 ## further reading
 * Part 2 of the blog post series I wrote on investigationg an engineering workstation: https://blog.nviso.eu/series/investigating-an-engineering-workstation/
